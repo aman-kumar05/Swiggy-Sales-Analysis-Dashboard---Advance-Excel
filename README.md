@@ -145,7 +145,6 @@ Business Requirement Analysis (BRD interpretation)
 
 KPI Design
 
-Data Cleaning & Preparation
 ![Sample Final output screenshoot] : https://github.com/aman-kumar05/Swiggy-Sales-Analysis-Dashboard---Advance-Excel/blob/main/Swiggy%2001%20.png
 Excel Automation using formulas
 
